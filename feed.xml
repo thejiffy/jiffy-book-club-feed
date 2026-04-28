@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>The Jiffy Book Club: Glorious Country</title>
+    <link>https://thejiffy.xyz</link>
+    <description>A six-part audio companion to Glorious Country by Victoria Johnson. Produced by The Jiffy, an independent newsletter and podcast covering the arts and sciences of upstate New York.</description>
+    <language>en-us</language>
+    <itunes:author>James Cave</itunes:author>
+    <itunes:owner>
+      <itunes:name>James Cave</itunes:name>
+      <itunes:email>james@thejiffy.xyz</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/Jiffy%20Book%20Club%20Audio%20Cover%20Art.png"/>
+    <image>
+      <url>https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/Jiffy%20Book%20Club%20Audio%20Cover%20Art.png</url>
+      <title>The Jiffy Book Club: Glorious Country</title>
+      <link>https://thejiffy.xyz</link>
+    </image>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+
+    <item>
+      <title>1. The Invitation</title>
+      <description>Welcome to the Jiffy Book Club audio feed for Glorious Country season. An introduction to the book, the series, and what to expect over the next six weeks.</description>
+      <enclosure url="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/jbc-s1-e1-the-invitation.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e1-the-invitation</guid>
+      <pubDate>Mon, 05 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The Invitation</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>2. The World</title>
+      <description>The geography, history, and cultural landscape behind Glorious Country — the Hudson Valley that shaped Frederic Church, and the world Victoria Johnson reconstructs.</description>
+      <enclosure url="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/jbc-s1-e2-the-world.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e2-the-world</guid>
+      <pubDate>Mon, 12 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The World</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>3. The Marginalia</title>
+      <description>Notes from the margins — passages, observations, and threads worth sitting with as you read.</description>
+      <enclosure url="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/jbc-s1-e3-the-marginalia.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e3-the-marginalia</guid>
+      <pubDate>Mon, 19 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The Marginalia</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>4. The Jaunt Dispatch</title>
+      <description>A field report from Olana and the Church sightlines of the Hudson Valley — companion audio to the Jiffy Jaunt itinerary for Glorious Country season.</description>
+      <enclosure url="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/jbc-s1-e4-the-jaunt-dispatch.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e4-the-jaunt-dispatch</guid>
+      <pubDate>Mon, 26 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The Jaunt Dispatch</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>5. The Conversation</title>
+      <description>James Cave in conversation with Victoria Johnson, author of Glorious Country. Cross-posted from The Jiffy podcast feed.</description>
+      <enclosure url="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/jbc-s1-e5-the-conversation.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e5-the-conversation</guid>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The Conversation</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>6. The Coda</title>
+      <description>A closing note on Glorious Country season — what we read, where we went, and what stays with us.</description>
+      <enclosure url="https://pub-77f4928a85c749b7adfd2c1c38c2852c.r2.dev/jbc-s1-e5-the-coda.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e6-the-coda</guid>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The Coda</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
