@@ -28,7 +28,7 @@
     <item>
       <title>1. The Charter Oak</title>
       <description>Welcome to the Jiffy Book Club audio feed for our inaugural season featuring "Glorious Country." Here, we learn about the book, the series, and what to expect over the next six weeks.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e1-the-invitation.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e1-the-invitation</guid>
       <pubDate>Mon, 05 May 2026 06:00:00 +0000</pubDate>
       <itunes:title>The Invitation</itunes:title>
@@ -40,8 +40,8 @@
     </item>
 
     <item>
-      <title>2. The World</title>
-      <description>The geography, history, and cultural landscape behind Glorious Country — the Hudson Valley that shaped Frederic Church, and the world Victoria Johnson reconstructs.</description>
+      <title>2. The "Glorious Country" with Victoria Johnson</title>
+      <description>The geography, history, and cultural landscape behind "Glorious Country" — the geography that shaped Frederic Church, and the world Victoria Johnson reconstructs.</description>
       <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e2-the-world.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e2-the-world</guid>
       <pubDate>Mon, 12 May 2026 06:00:00 +0000</pubDate>
@@ -54,8 +54,8 @@
     </item>
 
     <item>
-      <title>3. The Marginalia</title>
-      <description>Notes from the margins — passages, observations, and threads worth sitting with as you read.</description>
+      <title>3. The Met & The Marginalia</title>
+      <description>The backstory of The Met's founding, as seen from Church's point of view.</description>
       <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e3-the-marginalia.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e3-the-marginalia</guid>
       <pubDate>Mon, 19 May 2026 06:00:00 +0000</pubDate>
@@ -69,7 +69,7 @@
 
     <item>
       <title>4. The Jaunt Dispatch</title>
-      <description>A field report from Olana and the Church sightlines of the Hudson Valley — companion audio to the Jiffy Jaunt itinerary for Glorious Country season.</description>
+      <description>This is New York according to Frederic Church.</description>
       <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e4-the-jaunt-dispatch.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e4-the-jaunt-dispatch</guid>
       <pubDate>Mon, 26 May 2026 06:00:00 +0000</pubDate>
@@ -82,8 +82,8 @@
     </item>
 
     <item>
-      <title>5. The Conversation</title>
-      <description>James Cave in conversation with Victoria Johnson, author of Glorious Country. Cross-posted from The Jiffy podcast feed.</description>
+      <title>5. The Postcard from Churchworld</title>
+      <description>Frederic Church's world is big.</description>
       <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e5-the-conversation.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e5-the-conversation</guid>
       <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
@@ -96,8 +96,8 @@
     </item>
 
     <item>
-      <title>6. The Coda</title>
-      <description>A closing note on Glorious Country season — what we read, where we went, and what stays with us.</description>
+      <title>6. The Coda & The Clouds</title>
+      <description>The end. But wait, there's more!</description>
       <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e5-the-coda.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e6-the-coda</guid>
       <pubDate>Mon, 15 Jun 2026 06:00:00 +0000</pubDate>
