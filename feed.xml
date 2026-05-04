@@ -28,14 +28,14 @@
     <item>
       <title>1. The Charter Oak</title>
       <description>Welcome to the Jiffy Book Club audio feed for our inaugural season featuring "Glorious Country." Here, we learn about the book, the series, and what to expect over the next six weeks.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="21103493" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e1-the-invitation</guid>
       <pubDate>Mon, 05 May 2026 06:00:00 +0000</pubDate>
-      <itunes:title>The Invitation</itunes:title>
+      <itunes:title>The Charter Oak</itunes:title>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>0</itunes:duration>
+      <itunes:duration>23:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
