@@ -27,85 +27,14 @@
 
     <item>
       <title>1. The Charter Oak</title>
-      <description>Welcome to the Jiffy Book Club audio feed for our inaugural season featuring "Glorious Country." Here, we learn about the book, the series, and what to expect over the next six weeks.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="21103493" type="audio/mpeg"/>
+<description><![CDATA[Welcome to the Jiffy Book Club audio feed for our inaugural season featuring "Glorious Country." Here, we learn about the book, the series, and what to expect over the next six weeks. To hear the full episode on the Charter Oak from "This Old Tree," visit their <a href="https://www.thisoldtree.show/episode-details/the-charter-oak-ep-9">show page here</a>.]]></description>      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="21103493" type="audio/mpeg"/>
       <guid isPermaLink="false">jbc-s1-e1-the-invitation</guid>
-      <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 May 2026 06:00:00 +0000</pubDate>
       <itunes:title>The Charter Oak</itunes:title>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>23:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
-      <title>2. The "Glorious Country" with Victoria Johnson</title>
-      <description>The geography, history, and cultural landscape behind "Glorious Country" — the geography that shaped Frederic Church, and the world Victoria Johnson reconstructs.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e2-the-world.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">jbc-s1-e2-the-world</guid>
-      <pubDate>Mon, 12 May 2026 06:00:00 +0000</pubDate>
-      <itunes:title>The World</itunes:title>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>0</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
-      <title>3. The Met &amp; The Marginalia</title>
-      <description>The backstory of The Met's founding, as seen from Church's point of view.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e3-the-marginalia.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">jbc-s1-e3-the-marginalia</guid>
-      <pubDate>Mon, 19 May 2026 06:00:00 +0000</pubDate>
-      <itunes:title>The Marginalia</itunes:title>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>0</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
-      <title>4. The Jaunt Dispatch</title>
-      <description>This is New York according to Frederic Church.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e4-the-jaunt-dispatch.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">jbc-s1-e4-the-jaunt-dispatch</guid>
-      <pubDate>Mon, 26 May 2026 06:00:00 +0000</pubDate>
-      <itunes:title>The Jaunt Dispatch</itunes:title>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>0</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
-      <title>5. The Postcard from Churchworld</title>
-      <description>Frederic Church's world is big.</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e5-the-conversation.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">jbc-s1-e5-the-conversation</guid>
-      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
-      <itunes:title>The Conversation</itunes:title>
-      <itunes:episode>5</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>0</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
-      <title>6. The Coda &amp; The Clouds</title>
-      <description>The end. But wait, there's more!</description>
-      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e5-the-coda.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">jbc-s1-e6-the-coda</guid>
-      <pubDate>Mon, 15 Jun 2026 06:00:00 +0000</pubDate>
-      <itunes:title>The Coda</itunes:title>
-      <itunes:episode>6</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
