@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>The Jiffy Book Club: Glorious Country</title>
     <link>https://bookclub.thejiffy.xyz</link>
@@ -24,11 +24,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
-
+    <!-- PODCAST 2.0 CHANNEL-LEVEL TAGS -->
+    <podcast:guid>a9d02af3-087c-4935-ae4e-7dd7e22bfcb5</podcast:guid>
+    <podcast:funding url="https://www.thejiffy.xyz/subscribe">Support The Jiffy</podcast:funding>
+    <podcast:person role="host" href="https://thejiffy.xyz">James Cave</podcast:person>
+    <podcast:locked>yes</podcast:locked>
     <item>
       <title>1. The Charter Oak</title>
-<description><![CDATA[Welcome to the Jiffy Book Club audio feed for our inaugural season featuring "Glorious Country." Here, we learn about the book, the series, and what to expect over the next six weeks. To hear the full episode on the Charter Oak from "This Old Tree," visit their <a href="https://www.thisoldtree.show/episode-details/the-charter-oak-ep-9">show page here</a>.]]></description>      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="21103493" type="audio/mpeg"/>
-      <guid isPermaLink="false">jbc-s1-e1-the-invitation</guid>
+      <description><![CDATA[Welcome to the Jiffy Book Club audio feed for our inaugural season featuring "Glorious Country." Here, we learn about the book, the series, and what to expect over the next six weeks. To hear the full episode on the Charter Oak from "This Old Tree," visit their <a href="https://www.thisoldtree.show/episode-details/the-charter-oak-ep-9">show page here</a>.]]></description>
+      <enclosure url="https://bookclubaudio.thejiffy.xyz/JBC%20S1E1%20The%20Charter%20Oak%20v2.mp3" length="21103493" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e1-the-charter-oak</guid>
       <pubDate>Mon, 05 May 2026 06:00:00 +0000</pubDate>
       <itunes:title>The Charter Oak</itunes:title>
       <itunes:episode>1</itunes:episode>
@@ -36,7 +41,10 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>23:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <!-- PODCAST 2.0 EPISODE-LEVEL TAGS -->
+      <podcast:season name="Glorious Country">1</podcast:season>
+      <podcast:transcript url="https://bookclubaudio.thejiffy.xyz/transcripts/jbc-s1-e1-transcript.txt" type="text/plain"/>
+      <podcast:person role="host" href="https://thejiffy.xyz">James Cave</podcast:person>
     </item>
-
   </channel>
 </rss>
