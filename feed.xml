@@ -47,5 +47,23 @@ This podcast is an independent project of The Jiffy. It is not affiliated with, 
       <podcast:transcript url="https://bookclubaudio.thejiffy.xyz/transcripts/jbc-s1-e1-transcript.txt" type="text/plain"/>
       <podcast:person role="host" href="https://thejiffy.xyz">James Cave</podcast:person>
     </item>
+    <item>
+      <title>2. The Cosy Cottage</title>
+      <description><![CDATA[A six-part audio companion to The Jiffy Book Club's inaugural selection: "Glorious Country: How the Artist Frederic Church Brought the World to America and America to the World," by Victoria Johnson. Produced by The Jiffy, an independent newsletter and podcast covering the arts and sciences of upstate New York, and hosted by James Cave.
+
+This podcast is an independent project of The Jiffy. It is not affiliated with, sponsored by, or produced in association with the author or publisher.]]></description>
+      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e2-the-cosy-cottage.mp3" length="47067616" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e2-the-cosy-cottage</guid>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>The Cosy Cottage</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>39:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <!-- PODCAST 2.0 EPISODE-LEVEL TAGS -->
+      <podcast:season name="Glorious Country">1</podcast:season>
+      <podcast:person role="host" href="https://thejiffy.xyz">James Cave</podcast:person>
+    </item>
   </channel>
 </rss>
