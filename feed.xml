@@ -83,5 +83,23 @@ This podcast is an independent project of The Jiffy. It is not affiliated with, 
       <podcast:season name="Glorious Country">1</podcast:season>
       <podcast:person role="host" href="https://thejiffy.xyz">James Cave</podcast:person>
     </item>
+    <item>
+      <title>4. A Postcard From Church World</title>
+      <description><![CDATA[A six-part audio companion to The Jiffy Book Club's inaugural selection: "Glorious Country: How the Artist Frederic Church Brought the World to America and America to the World," by Victoria Johnson. Produced by The Jiffy, an independent newsletter and podcast covering the arts and sciences of upstate New York, and hosted by James Cave.
+
+This podcast is an independent project of The Jiffy. It is not affiliated with, sponsored by, or produced in association with the author or publisher.]]></description>
+      <enclosure url="https://bookclubaudio.thejiffy.xyz/jbc-s1-e4-a-postcard-from-church-world-with-betsy-kornhauser.mp3" length="22014290" type="audio/mpeg"/>
+      <guid isPermaLink="false">jbc-s1-e3-to-the-memory-of-cole</guid>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0000</pubDate>
+      <itunes:title>A Postcard From Church World</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>26:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <!-- PODCAST 2.0 EPISODE-LEVEL TAGS -->
+      <podcast:season name="Glorious Country">1</podcast:season>
+      <podcast:person role="host" href="https://thejiffy.xyz">James Cave</podcast:person>
+    </item>
   </channel>
 </rss>
